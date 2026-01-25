@@ -1,0 +1,5 @@
+.python-version
+uv.lock
+ignored_files/
+__pycache__
+.venv
